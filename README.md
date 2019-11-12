@@ -32,7 +32,7 @@ Zip the build folder with a name which is <projectName_version_date.zip>
 
 copy the same zipped file to the server in which you are planning to deploy
 
-  > scp project-name-v0.11.11-11-11-2019.zip scts@192.168.0.33:~
+  > scp project-name-v0.11.11-11-11-2019.zip scts@192.168...:~
 
 ssh to the server where you would like to deploy
 
